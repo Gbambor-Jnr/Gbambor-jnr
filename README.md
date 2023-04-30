@@ -1,8 +1,4 @@
-### Hi there 👋
-
-I'm Ikenna, a Backend Engineer
-
-### Hi there 👋, My name is Ikenna
+### Hi there 👋 I'm Ikenna, 
 #### I'm a backend Engineer
 
 ### Skills: 
