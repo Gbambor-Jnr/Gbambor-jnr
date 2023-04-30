@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Ikenna, 
-#### I'm a backend Engineer
+### Hi there 👋 I'm Ikenna, a backend Engineer
 
 ### Skills: 
 * 🖥️ I work with NodeJS, Javascript, React
