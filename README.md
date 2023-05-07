@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Ikenna, a backend Engineer
 
 ### Skills: 
-* 🖥️ I work with NodeJS, Javascript, React
-* Mongodb, Express,
-* PostgreSql , 
+* 🖥️ I work with NodeJS, Javascript, Express
+* Mongodb, Mysql ,
+* PostgreSql , GCP 
 * Python
-* Linux, docker
+* Linux, docker , React
 * ☀️ Fun Fact: Given time, there's Nothing I can't learn
 
 
