@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ikenna, a backend Engineer
+### Hi there 👋 I'm Ikenna, a Junior Fullstack Engineer
 
 ### Skills: 
 * 🖥️ I work with Javascript, React, NodeJS, Express
